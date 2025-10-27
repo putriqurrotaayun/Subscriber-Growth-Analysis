@@ -1,6 +1,7 @@
 # 📈   Subscriber Growth Analysis
 
 Low digital & financial literacy potential to decrease customers attention to use our apps. Therefore Chief Customer Officer requested analysis to improve customer literacy on increasing customers by 5%.
+
 ---
 
 ## 📊 Project Overview
